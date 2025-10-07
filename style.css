@@ -7,3 +7,6 @@
 .minha-lista-flex li{
     flex-basis: 33.33%;
 }
+#festa{
+    max-width: max-content;
+}
